@@ -29,7 +29,7 @@ After launching the file, everything will be good!
 
 📸 **Images**
 
-![Example Gif](https://cdn.noahprm.fr/images/d452fG78.gif)
+![Example Gif](https://cdn.discordapp.com/attachments/1075583371025055774/1185657971728973885/ToDo-App-by-NoahPrm.gif?ex=65906908&is=657df408&hm=df73a8378aa6281a91416063a5cd086c929b8b46898fd655610216b24298addb&)
 
 ## Author
 
