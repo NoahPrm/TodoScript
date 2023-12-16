@@ -29,7 +29,7 @@ After launching the file, everything will be good!
 
 📸 **Images**
 
-![Exemple][[Images/exemple.gif](https://github.com/NoahPrm/TodoScript/blob/main/Images/exemple.gif)]
+![Exemple](Images/exemple.gif)
 
 ## Author
 
