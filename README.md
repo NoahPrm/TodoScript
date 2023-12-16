@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to PasswordChecker 👋</h1>
+<h1 align="center">Welcome to TodoScript 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/NoahPrm/PasswordChecker/blob/main/LICENSE" target="_blank">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> PasswordChecker is the greatest password checker 
+> Un simple script en Python qui pourras vous servir de TodoList
 
 ### 🏠 [Homepage](https://github.com/NoahPrm/TodoScript)
 
@@ -24,12 +24,12 @@ After launching the file, everything will be good!
 💻 **Windows**
 
 First, you will need to download [Windows](https://github.com/NoahPrm/TodoScript/tree/main/Windows) folder _(You can download the entire project by clicking [here](https://github.com/NoahPrm/TodoScript/archive/refs/heads/main.zip))_
-After downloading the project or the folder, you must run the [password_checker.bat](https://github.com/NoahPrm/TodoScript/blob/main/Windows/todo.bat) file.
+After downloading the project or the folder, you must run the [todo.bat](https://github.com/NoahPrm/TodoScript/blob/main/Windows/todo.bat) file.
 After launching the file, everything will be good!
 
 📸 **Images**
 
-![image]([https://cdn.discordapp.com/attachments/999040172681351179/1144742661501227108/Capture_decran_2023-08-25_a_23.17.31.png](https://cdn.noahprm.fr/images/d452fG78.gif))
+<img src="https://cdn.noahprm.fr/images/d452fG78.gif" width="40" height="40" />
 
 ## Author
 
