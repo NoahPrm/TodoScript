@@ -29,7 +29,7 @@ After launching the file, everything will be good!
 
 📸 **Images**
 
-<img src="https://cdn.noahprm.fr/images/d452fG78.gif" width="40" height="40" />
+![Exemple][Images/exemple.gif]
 
 ## Author
 
