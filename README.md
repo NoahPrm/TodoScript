@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to PasswordChecker 👋</h1>
+<h1 align="center">Welcome to TodoScript 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/NoahPrm/PasswordChecker/blob/main/LICENSE" target="_blank">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> PasswordChecker is the greatest password checker 
+> Un simple script en Python qui pourras vous servir de TodoList
 
 ### 🏠 [Homepage](https://github.com/NoahPrm/TodoScript)
 
@@ -29,7 +29,7 @@ After launching the file, everything will be good!
 
 📸 **Images**
 
-![image](https://cdn.noahprm.fr/images/d452fG78.gif)
+![Example Gif](https://cdn.noahprm.fr/images/d452fG78.gif)
 
 ## Author
 
